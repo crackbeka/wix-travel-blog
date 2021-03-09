@@ -1,1 +1,3 @@
 # wix-travel-blog
+
+Example
